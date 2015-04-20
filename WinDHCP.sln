@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDHCP", "WinDHCP.csproj", "{795547E6-8681-4087-8F93-4FB4AFEA2174}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDHCPLib", "WinDHCPLib\WinDHCPLib.csproj", "{92D7F13D-2134-489E-BC6A-3896FEEFC927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinDHCPTestClient", "WinDHCPTestClient\WinDHCPTestClient.csproj", "{7F63490B-66A3-4CC9-B91C-C2A9E67EB062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795547E6-8681-4087-8F93-4FB4AFEA2174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795547E6-8681-4087-8F93-4FB4AFEA2174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795547E6-8681-4087-8F93-4FB4AFEA2174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795547E6-8681-4087-8F93-4FB4AFEA2174}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D7F13D-2134-489E-BC6A-3896FEEFC927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D7F13D-2134-489E-BC6A-3896FEEFC927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D7F13D-2134-489E-BC6A-3896FEEFC927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D7F13D-2134-489E-BC6A-3896FEEFC927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F63490B-66A3-4CC9-B91C-C2A9E67EB062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F63490B-66A3-4CC9-B91C-C2A9E67EB062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F63490B-66A3-4CC9-B91C-C2A9E67EB062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F63490B-66A3-4CC9-B91C-C2A9E67EB062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
